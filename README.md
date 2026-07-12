@@ -1,3 +1,13 @@
+<h2>
+  About me
+  <a href="https://justuuid.pages.dev/u/b02533e2-a43f-41de-9ef2-f694deaf6e07" target="_blank" rel="noopener noreferrer">
+    <img
+      align="right"
+      src="https://justuuid.pages.dev/api/badge/u/b02533e2-a43f-41de-9ef2-f694deaf6e07.svg" alt="UUID Badge"
+      width="250"
+    />
+  </a>
+</h2>
 ## About me
 
 I'm a high school student in Japan.  
