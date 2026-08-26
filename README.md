@@ -17,21 +17,10 @@ I'm enjoying learning step by step and building small apps along the way.
 - iOS development
 - Backend development
 
+<br>
+<br>
 
-## Languages & Stats
-
-<div align="center">
-  <img
-    align="top"
-    src="https://github-readme-stats-bice-ten-62.vercel.app/api/top-langs/?username=twelnina&layout=compact&langs_count=8&hide_border=true&card_width=420&theme=transparent&cache_seconds=1800"
-    width="400"
-  />
-  <img
-    align="top"
-    src="https://github-readme-stats-bice-ten-62.vercel.app/api?username=twelnina&show_icons=true&theme=transparent&cache_seconds=1800&hide_border=true"
-    width="400"
-  />
-</div>
+<img src="assets/profile-cards/contributions.dark.svg" width="100%">
 
 <br>
 <br>
