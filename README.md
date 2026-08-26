@@ -3,7 +3,7 @@
 I'm a high school student in Japan.  
 I'm currently learning Kotlin and Jetpack Compose to develop Android apps.  
 
-I recently started programming after being inspired by a friend, so I'm still a beginner.
+I recently started programming after being inspired by a friend, so I'm still a beginner.  
 I'm enjoying learning step by step and building small apps along the way.  
 
 ## Currently learning
@@ -18,17 +18,7 @@ I'm enjoying learning step by step and building small apps along the way.
 - Backend development
 
 
-<h2>
-  Languages & Stats
-  <a href="https://skillicons.dev">
-    <img
-      align="right"
-      src="https://skillicons.dev/icons?i=kotlin,gradle,androidstudio,neovim,arch"
-      width="90"
-      alt="Tech Stack"
-    />
-  </a>
-</h2>
+## Languages & Stats
 
 <div align="center">
   <img
