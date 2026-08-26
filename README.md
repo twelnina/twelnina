@@ -3,19 +3,19 @@
 I'm a high school student in Japan.  
 I'm currently learning Kotlin and Jetpack Compose to develop Android apps.  
 
-I recently started programming, so I'm still a beginner.  
+I recently started programming after being inspired by a friend, so I'm still a beginner.
 I'm enjoying learning step by step and building small apps along the way.  
 
 ## Currently learning
 
-- Kotlin basics
-- Jetpack Compose
-- Android app architecture
+- Android development
 
-## Goals
+## Interests
 
-- Build apps related to education and learning
-- Build TUI applications using Rust
+- C, C++
+- Competitive programming
+- iOS development
+- Backend development
 
 
 <h2>
