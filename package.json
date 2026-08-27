@@ -7,7 +7,8 @@
     "node": "24.x"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wakatime": "node --env-file=.env scripts/generate-wakatime.mjs"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "type": "module",
   "dependencies": {
     "@stats-organization/github-readme-stats-core": "2.1.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.4.0"
   }
 }
