@@ -18,9 +18,13 @@ I'm enjoying learning step by step and building small apps along the way.
 - Backend development
 
 <br>
-<br>
 
-<img src="assets/profile-cards/contributions.dark.svg" width="100%">
+<div align="center">
+  <img src="assets/profile-cards/overview.dark.svg" width="100%">
+  <br>
+  <br>
+  <img src="assets/profile-cards/top-langs.svg" align="top" width="50%"><img src="assets/profile-cards/wakatime.svg" align="top" width="50%">
+</div>
 
 <br>
 <br>
