@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
 
-      - name: Render Profile Cards
+      - name: Render profile cards
         uses: seijikohara/profile-cards-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -20,4 +20,27 @@ jobs:
           cards: overview, contributions, repositories
           output-dir: assets/profile-cards
           themes: dark
-          commit: true
+          commit: false
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=twelnina&layout=compact&langs_count=8&theme=transparent&card_width=400
+          path: assets/profile-cards/top-langs.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/profile-cards
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
+          git commit -m "chore(assets): update profile cards"
+          git push
