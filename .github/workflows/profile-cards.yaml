@@ -26,7 +26,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=twelnina&layout=compact&langs_count=8&theme=transparent&card_width=500&hide_border=true
+          options: username=twelnina&layout=compact&langs_count=8&theme=transparent&card_width=400&hide_border=true
           path: assets/profile-cards/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 

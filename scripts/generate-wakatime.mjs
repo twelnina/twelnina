@@ -47,7 +47,7 @@ const { renderWakatimeCard } = await import(
 const svg = renderWakatimeCard(data, {
     layout: "compact",
     langs_count: 8,
-    card_width: 500,
+    card_width: 400,
     theme: "transparent",
     hide_border: true,
 });
