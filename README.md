@@ -1,9 +1,8 @@
 ## About me
 
 I'm a high school student in Japan.  
-I'm currently learning Kotlin and Jetpack Compose to develop Android apps.  
 
-I recently started programming after being inspired by a friend, so I'm still a beginner.  
+I recently started programming after being inspired by a friend.  
 I'm enjoying learning step by step and building small apps along the way.  
 
 ## Currently learning
@@ -12,10 +11,10 @@ I'm enjoying learning step by step and building small apps along the way.
 
 ## Interests
 
-- C, C++
+- C/C++
 - Competitive programming
 - iOS development
-- Backend development
+- Backend development (Go?)
 
 <br>
 
@@ -28,10 +27,10 @@ I'm enjoying learning step by step and building small apps along the way.
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/top-langs-dark.svg" />
-    <img alt="Top languages" src="./assets/profile-cards/top-langs-light.svg" align="top" width="50%" />
+    <img alt="Top languages" src="./assets/profile-cards/top-langs-light.svg" align="top" width="49%" />
   </picture><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/wakatime-dark.svg" />
-    <img alt="WakaTime stats" src="./assets/profile-cards/wakatime-light.svg" align="top" width="50%" />
+    <img alt="WakaTime stats" src="./assets/profile-cards/wakatime-light.svg" align="top" width="49%" />
   </picture>
 </div>
 
