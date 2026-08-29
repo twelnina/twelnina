@@ -20,10 +20,19 @@ I'm enjoying learning step by step and building small apps along the way.
 <br>
 
 <div align="center">
-  <img src="assets/profile-cards/overview.dark.svg" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/overview.dark.svg" />
+    <img alt="Overview" src="./assets/profile-cards/overview.light.svg" width="100%" />
+  </picture>
   <br>
   <br>
-  <img src="assets/profile-cards/top-langs.svg" align="top" width="50%"><img src="assets/profile-cards/wakatime.svg" align="top" width="50%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/top-langs-dark.svg" />
+    <img alt="Top languages" src="./assets/profile-cards/top-langs-light.svg" align="top" width="50%" />
+  </picture><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/wakatime-dark.svg" />
+    <img alt="WakaTime stats" src="./assets/profile-cards/wakatime-light.svg" align="top" width="50%" />
+  </picture>
 </div>
 
 <br>

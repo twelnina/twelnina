@@ -16,35 +16,56 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
 
-      - name: Render profile cards
+      - name: Generate overview card
         uses: seijikohara/profile-cards-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: twelnina
           cards: overview
           output-dir: assets/profile-cards
-          themes: dark
+          themes: light,dark
           commit: false
 
-      - name: Generate top languages card
+      - name: Generate top languages card (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=twelnina&layout=compact&langs_count=8&theme=transparent&card_width=400&hide_border=true&title_color=7FC3D9&text_color=889098
-          path: assets/profile-cards/top-langs.svg
+          path: assets/profile-cards/top-langs-dark.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
-      - name: Generate wakatime card
+      - name: Generate top languages card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=twelnina&layout=compact&langs_count=8&theme=transparent&card_width=400&hide_border=true&title_color=8082C3&text_color=5A646F
+          path: assets/profile-cards/top-langs-light.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
+
+      - name: Generate wakatime card (dark)
         uses: twelnina/wakatime-stats-action@main
         with:
           wakatime-api-key: ${{ secrets.WAKATIME_API_KEY }}
-          output-path: assets/profile-cards/wakatime.svg
+          output-path: assets/profile-cards/wakatime-dark.svg
           layout: compact
           langs-count: 8
           card-width: 400
           theme: transparent
           title-color: 7FC3D9
           text-color: 889098
+          hide-border: true
+
+      - name: Generate wakatime card (light)
+        uses: twelnina/wakatime-stats-action@main
+        with:
+          wakatime-api-key: ${{ secrets.WAKATIME_API_KEY }}
+          output-path: assets/profile-cards/wakatime-light.svg
+          layout: compact
+          langs-count: 8
+          card-width: 400
+          theme: transparent
+          title-color: 8082C3
+          text-color: 5A646F
           hide-border: true
 
       - name: Commit generated cards
