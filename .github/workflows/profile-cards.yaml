@@ -30,7 +30,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=twelnina&layout=compact&langs_count=8&theme=transparent&card_width=400&hide_border=true
+          options: username=twelnina&layout=compact&langs_count=8&theme=transparent&card_width=400&hide_border=true&title_color=7FC3D9&text_color=889098
           path: assets/profile-cards/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
@@ -43,6 +43,8 @@ jobs:
           langs-count: 8
           card-width: 400
           theme: transparent
+          title-color: 7FC3D9
+          text-color: 889098
           hide-border: true
 
       - name: Commit generated cards
