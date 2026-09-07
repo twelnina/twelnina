@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="208.643"
+            width="207.422"
             height="8"
             fill="#A97BFF"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="208.643"
+            x="207.422"
             y="0"
-            width="74.259"
+            width="65.268"
             height="8"
             fill="#292929"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="282.902"
+            x="272.69"
             y="0"
-            width="45.214000000000006"
+            width="54.945"
             height="8"
             fill="#858585"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="328.116"
+            x="327.635"
             y="0"
-            width="30.598999999999997"
+            width="32.486"
             height="8"
             fill="#000080"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="358.715"
+            x="360.121"
             y="0"
-            width="7.955"
+            width="6.9559999999999995"
             height="8"
             fill="#663399"
           />
@@ -178,7 +178,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin - 59 mins
+        Kotlin - 1 hr 8 mins
       </text>
     </g>
   
@@ -192,14 +192,14 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 12 mins
+        Other - 18 mins
       </text>
     </g>
   
     <g transform="translate(182.5, 50)">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua - 8 mins
+        Lua - 10 mins
       </text>
     </g>
   
