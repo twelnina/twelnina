@@ -54,7 +54,7 @@ jobs:
           title-color: 7FC3D9
           text-color: 889098
           hide-border: true
-          hide: text, others
+          hide: text, xml, other
 
       - name: Generate wakatime card (light)
         uses: twelnina/wakatime-stats-action@v0.1.0
@@ -68,7 +68,7 @@ jobs:
           title-color: 8082C3
           text-color: 5A646F
           hide-border: true
-          hide: text, others
+          hide: text, xml, other
 
       - name: Commit generated cards
         run: |
