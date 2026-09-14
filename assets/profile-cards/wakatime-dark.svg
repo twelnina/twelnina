@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="165"
-        viewBox="0 0 400 165"
+        height="190"
+        viewBox="0 0 400 190"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="234.50600000000003"
+            width="288.415"
             height="8"
             fill="#A97BFF"
           />
@@ -137,19 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="234.50600000000003"
+            x="288.415"
             y="0"
-            width="95.46"
-            height="8"
-            fill="#083fa1"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="329.966"
-            y="0"
-            width="34.003"
+            width="38.887"
             height="8"
             fill="#cb171e"
           />
@@ -157,9 +147,29 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="363.969"
+            x="327.302"
             y="0"
-            width="5.217"
+            width="23.717000000000002"
+            height="8"
+            fill="#083fa1"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="351.019"
+            y="0"
+            width="11.877"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="362.896"
+            y="0"
+            width="4.033"
             height="8"
             fill="#f1e05a"
           />
@@ -167,9 +177,19 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="369.186"
+            x="366.92900000000003"
             y="0"
-            width="1.258"
+            width="1.591"
+            height="8"
+            fill="#9c4221"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="368.52000000000004"
+            y="0"
+            width="0.37"
             height="8"
             fill="#000080"
           />
@@ -178,35 +198,49 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin - 9 hrs 21 mins
+        Kotlin - 14 hrs 57 mins
       </text>
     </g>
   
     <g transform="translate(182.5, 25)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
+      <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 3 hrs 48 mins
+        YAML - 2 hrs 1 min
       </text>
     </g>
   
     <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#cb171e" />
+      <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 1 hr 21 mins
+        Markdown - 1 hr 13 mins
       </text>
     </g>
   
     <g transform="translate(182.5, 50)">
+      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Bash - 36 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         JavaScript - 12 mins
       </text>
     </g>
   
-    <g transform="translate(25, 75)">
+    <g transform="translate(182.5, 75)">
+      <circle cx="5" cy="6" r="5" fill="#9c4221" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        TOML - 4 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 100)">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua - 3 mins
+        Lua - 1 min
       </text>
     </g>
   
