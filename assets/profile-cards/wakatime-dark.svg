@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="165"
-        viewBox="0 0 400 165"
+        height="140"
+        viewBox="0 0 400 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="349.20599999999996"
+            width="361.26800000000003"
             height="8"
             fill="#A97BFF"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="349.20599999999996"
+            x="361.26800000000003"
             y="0"
-            width="6.66"
+            width="6.882000000000001"
             height="8"
             fill="#000080"
           />
@@ -147,48 +147,18 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="355.866"
+            x="368.15000000000003"
             y="0"
-            width="5.994000000000001"
-            height="8"
-            fill="#cb171e"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="361.86"
-            y="0"
-            width="5.55"
-            height="8"
-            fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="367.41"
-            y="0"
-            width="0.777"
+            width="0.8140000000000001"
             height="8"
             fill="#2A6277"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="368.187"
-            y="0"
-            width="0.74"
-            height="8"
-            fill="#9c4221"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin - 38 hrs 46 mins
+        Kotlin - 38 hrs 47 mins
       </text>
     </g>
   
@@ -200,30 +170,9 @@
     </g>
   
     <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#cb171e" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 39 mins
-      </text>
-    </g>
-  
-    <g transform="translate(182.5, 50)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Bash - 36 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#2A6277" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Java Properties - 5 mins
-      </text>
-    </g>
-  
-    <g transform="translate(182.5, 75)">
-      <circle cx="5" cy="6" r="5" fill="#9c4221" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TOML - 4 mins
       </text>
     </g>
   
