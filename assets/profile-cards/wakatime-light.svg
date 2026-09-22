@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="361.26800000000003"
+            width="369.852"
             height="8"
             fill="#A97BFF"
           />
@@ -137,42 +137,42 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="361.26800000000003"
+            x="369.852"
             y="0"
-            width="6.882000000000001"
+            width="0.777"
             height="8"
-            fill="#000080"
+            fill="#2A6277"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="368.15000000000003"
+            x="370.62899999999996"
             y="0"
-            width="0.8140000000000001"
+            width="0.518"
             height="8"
-            fill="#2A6277"
+            fill="#9c4221"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin - 38 hrs 47 mins
+        Kotlin - 40 hrs 52 mins
       </text>
     </g>
   
     <g transform="translate(182.5, 25)">
-      <circle cx="5" cy="6" r="5" fill="#000080" />
+      <circle cx="5" cy="6" r="5" fill="#2A6277" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua - 44 mins
+        Java Properties - 5 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#2A6277" />
+      <circle cx="5" cy="6" r="5" fill="#9c4221" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java Properties - 5 mins
+        TOML - 3 mins
       </text>
     </g>
   
