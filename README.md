@@ -1,20 +1,16 @@
 ## About me
 
-I'm a high school student in Japan.  
+I'm a high school student in Japan who enjoys learning through small, practical projects.
 
-I recently started programming after being inspired by a friend.  
-I'm enjoying learning step by step and building small apps along the way.  
+I can help with Japanese localization, including translation, proofreading, and reviewing text from a native speaker's perspective.
 
-## Currently learning
+I also enjoy building small mobile applications and finding ways to simplify my development workflow.
 
-- Android development
+## Currently exploring
 
-## Interests
-
-- C/C++
-- Competitive programming
-- iOS development
-- Backend development (Go?)
+- Mobile application development
+- Programming with C and C++
+- Backend development with Go
 
 <br>
 
