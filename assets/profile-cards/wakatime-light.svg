@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="190"
-        viewBox="0 0 400 190"
+        height="165"
+        viewBox="0 0 400 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="274.022"
+            width="337.995"
             height="8"
             fill="#A97BFF"
           />
@@ -137,19 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="274.022"
+            x="337.995"
             y="0"
-            width="59.089000000000006"
-            height="8"
-            fill="#f1e05a"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="333.111"
-            y="0"
-            width="21.978"
+            width="28.785999999999998"
             height="8"
             fill="#083fa1"
           />
@@ -157,19 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="355.089"
+            x="366.781"
             y="0"
-            width="5.883000000000001"
-            height="8"
-            fill="#e34c26"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="360.972"
-            y="0"
-            width="3.552"
+            width="1.776"
             height="8"
             fill="#858585"
           />
@@ -177,19 +157,19 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="364.524"
+            x="368.557"
             y="0"
-            width="2.331"
+            width="0.925"
             height="8"
-            fill="#858585"
+            fill="#f1e05a"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="366.855"
+            x="369.482"
             y="0"
-            width="2.072"
+            width="0.777"
             height="8"
             fill="#cb171e"
           />
@@ -198,49 +178,35 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin - 5 hrs 41 mins
+        Kotlin - 9 hrs 12 mins
       </text>
     </g>
   
     <g transform="translate(182.5, 25)">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 1 hr 13 mins
+        Markdown - 47 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 27 mins
-      </text>
-    </g>
-  
-    <g transform="translate(182.5, 50)">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML - 7 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 75)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        GitIgnore file - 4 mins
-      </text>
-    </g>
-  
-    <g transform="translate(182.5, 75)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         R8 Config File - 2 mins
       </text>
     </g>
   
-    <g transform="translate(25, 100)">
+    <g transform="translate(182.5, 50)">
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        JavaScript - 1 min
+      </text>
+    </g>
+  
+    <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 2 mins
+        YAML - 1 min
       </text>
     </g>
   
