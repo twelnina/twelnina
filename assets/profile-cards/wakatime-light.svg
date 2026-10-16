@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="343.249"
+            width="344.54400000000004"
             height="8"
             fill="#A97BFF"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="343.249"
+            x="344.54400000000004"
             y="0"
-            width="25.345"
+            width="19.425"
             height="8"
             fill="#083fa1"
           />
@@ -147,9 +147,19 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="368.59400000000005"
+            x="363.96900000000005"
             y="0"
-            width="1.591"
+            width="4.662"
+            height="8"
+            fill="#9c4221"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="368.63100000000003"
+            y="0"
+            width="1.221"
             height="8"
             fill="#858585"
           />
@@ -157,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="370.18500000000006"
+            x="369.85200000000003"
             y="0"
-            width="0.8140000000000001"
+            width="0.629"
             height="8"
             fill="#f1e05a"
           />
@@ -167,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="370.9990000000001"
+            x="370.48100000000005"
             y="0"
-            width="0.6659999999999999"
+            width="0.518"
             height="8"
             fill="#cb171e"
           />
@@ -178,7 +188,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin - 10 hrs 36 mins
+        Kotlin - 13 hrs 54 mins
       </text>
     </g>
   
@@ -190,20 +200,27 @@
     </g>
   
     <g transform="translate(25, 50)">
+      <circle cx="5" cy="6" r="5" fill="#9c4221" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        TOML - 11 mins
+      </text>
+    </g>
+  
+    <g transform="translate(182.5, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         R8 Config File - 2 mins
       </text>
     </g>
   
-    <g transform="translate(182.5, 50)">
+    <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         JavaScript - 1 min
       </text>
     </g>
   
-    <g transform="translate(25, 75)">
+    <g transform="translate(182.5, 75)">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         YAML - 1 min
