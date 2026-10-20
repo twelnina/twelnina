@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="190"
-        viewBox="0 0 400 190"
+        height="165"
+        viewBox="0 0 400 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="241.15"
+          width="248.54"
           height="8"
           fill="#A97BFF"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="241.15"
+          x="248.54"
           y="0"
-          width="82.9"
+          width="85.44"
           height="8"
           fill="#f1e05a"
         />
@@ -156,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="324.05"
+          x="333.98"
           y="0"
-          width="16.92"
+          width="17.13"
           height="8"
           fill="#e34c26"
         />
@@ -166,19 +166,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="330.97"
+          x="341.11"
           y="0"
-          width="15.379999999999999"
-          height="8"
-          fill="#c6538c"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="336.35"
-          y="0"
-          width="15.15"
+          width="15.309999999999999"
           height="8"
           fill="#663399"
         />
@@ -186,31 +176,11 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="341.5"
+          x="346.42"
           y="0"
-          width="14.9"
-          height="8"
-          fill="#1d365d"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="346.4"
-          y="0"
-          width="13.47"
+          width="13.57"
           height="8"
           fill="#000080"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="349.87"
-          y="0"
-          width="10.13"
-          height="8"
-          fill="#701516"
         />
       
       
@@ -219,56 +189,35 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin 68.90%
+        Kotlin 71.01%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 23.69%
+        JavaScript 24.41%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 1.98%
-      </text>
-    </g>
-  </g><g transform="translate(0, 75)">
-    <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#c6538c" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        SCSS 1.54%
+        HTML 2.04%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 1.47%
+        CSS 1.52%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#1d365d" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Less 1.40%
-      </text>
-    </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua 0.99%
-      </text>
-    </g>
-  </g><g transform="translate(0, 75)">
-    <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#701516" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Ruby 0.04%
+        Lua 1.02%
       </text>
     </g>
   </g></g>
