@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="332.408"
+            width="336.7"
             height="8"
             fill="#A97BFF"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="332.408"
+            x="336.7"
             y="0"
-            width="31.968000000000004"
+            width="23.828000000000003"
             height="8"
             fill="#083fa1"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="364.37600000000003"
+            x="360.528"
             y="0"
-            width="6.178999999999999"
+            width="6.845"
             height="8"
             fill="#9c4221"
           />
@@ -157,35 +157,35 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="370.555"
+            x="367.37300000000005"
             y="0"
-            width="0.5920000000000001"
+            width="1.073"
             height="8"
-            fill="#f1e05a"
+            fill="#cb171e"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="371.147"
+            x="368.446"
             y="0"
-            width="0.518"
+            width="0.6659999999999999"
             height="8"
-            fill="#cb171e"
+            fill="#f1e05a"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin - 13 hrs 57 mins
+        Kotlin - 12 hrs 47 mins
       </text>
     </g>
   
     <g transform="translate(182.5, 25)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 1 hr 20 mins
+        Markdown - 54 mins
       </text>
     </g>
   
@@ -197,16 +197,16 @@
     </g>
   
     <g transform="translate(182.5, 50)">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 1 min
+        YAML - 2 mins
       </text>
     </g>
   
     <g transform="translate(25, 75)">
-      <circle cx="5" cy="6" r="5" fill="#cb171e" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 1 min
+        JavaScript - 1 min
       </text>
     </g>
   
