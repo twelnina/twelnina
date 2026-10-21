@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="165"
-        viewBox="0 0 400 165"
+        height="140"
+        viewBox="0 0 400 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="336.7"
+            width="341.769"
             height="8"
             fill="#A97BFF"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="336.7"
+            x="341.769"
             y="0"
-            width="23.828000000000003"
+            width="15.318"
             height="8"
             fill="#083fa1"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="360.528"
+            x="357.087"
             y="0"
-            width="6.845"
+            width="12.765"
             height="8"
             fill="#9c4221"
           />
@@ -157,56 +157,39 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="367.37300000000005"
+            x="369.852"
             y="0"
-            width="1.073"
+            width="0.555"
             height="8"
             fill="#cb171e"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="368.446"
-            y="0"
-            width="0.6659999999999999"
-            height="8"
-            fill="#f1e05a"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin - 12 hrs 47 mins
+        Kotlin - 12 hrs 30 mins
       </text>
     </g>
   
     <g transform="translate(182.5, 25)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 54 mins
+        Markdown - 33 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#9c4221" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TOML - 15 mins
+        TOML - 28 mins
       </text>
     </g>
   
     <g transform="translate(182.5, 50)">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 2 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 75)">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 1 min
+        YAML - 1 min
       </text>
     </g>
   
