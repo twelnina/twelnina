@@ -1,17 +1,3 @@
-## About me
-
-I'm a high school student in Japan who enjoys building small, practical projects, especially Android apps, and improving my development workflow.
-
-My goal is to earn enough from indie Android development to buy a Mac mini. Naturally, I'll use it to build even more mobile apps.
-
-## Currently exploring
-
-- Mobile application development
-- Programming with C and C++
-- Backend development with Go
-
-<br>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/overview.dark.svg" />
