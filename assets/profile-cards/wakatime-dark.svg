@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="165"
-        viewBox="0 0 400 165"
+        height="140"
+        viewBox="0 0 400 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="349.31699999999995"
+            width="350.168"
             height="8"
             fill="#A97BFF"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="349.31699999999995"
+            x="350.168"
             y="0"
-            width="9.805"
+            width="9.842"
             height="8"
             fill="#9c4221"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="359.12199999999996"
+            x="360.01"
             y="0"
-            width="7.584999999999999"
+            width="7.622000000000001"
             height="8"
             fill="#000080"
           />
@@ -157,21 +157,11 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="366.70699999999994"
+            x="367.632"
             y="0"
             width="3.293"
             height="8"
             fill="#083fa1"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="369.99999999999994"
-            y="0"
-            width="0.925"
-            height="8"
-            fill="#cb171e"
           />
         
       
@@ -200,13 +190,6 @@
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Markdown - 4 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 75)">
-      <circle cx="5" cy="6" r="5" fill="#cb171e" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 1 min
       </text>
     </g>
   
