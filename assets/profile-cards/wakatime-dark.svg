@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="350.168"
+            width="351.648"
             height="8"
             fill="#A97BFF"
           />
@@ -137,19 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="350.168"
+            x="351.648"
             y="0"
-            width="9.842"
-            height="8"
-            fill="#9c4221"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="360.01"
-            y="0"
-            width="7.622000000000001"
+            width="13.505"
             height="8"
             fill="#000080"
           />
@@ -157,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="367.632"
+            x="365.153"
             y="0"
-            width="3.293"
+            width="5.698"
             height="8"
             fill="#083fa1"
           />
@@ -168,25 +158,18 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin - 7 hrs 25 mins
+        Kotlin - 4 hrs 11 mins
       </text>
     </g>
   
     <g transform="translate(182.5, 25)">
-      <circle cx="5" cy="6" r="5" fill="#9c4221" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TOML - 12 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Lua - 9 mins
       </text>
     </g>
   
-    <g transform="translate(182.5, 50)">
+    <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Markdown - 4 mins
