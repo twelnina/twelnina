@@ -43,9 +43,9 @@ jobs:
           token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate wakatime card (dark)
-        uses: twelnina/wakatime-stats-action@v0.1.0
+        uses: twelnina/wakatime-stats-action@v0.1.1
         with:
-          wakatime-api-key: ${{ secrets.WAKATIME_API_KEY }}
+          wakatime-token: ${{ secrets.WAKATIME_TOKEN }}
           output-path: assets/profile-cards/wakatime-dark.svg
           layout: compact
           langs-count: 8
@@ -57,9 +57,9 @@ jobs:
           hide: text, xml, other, ruby, less, scss
 
       - name: Generate wakatime card (light)
-        uses: twelnina/wakatime-stats-action@v0.1.0
+        uses: twelnina/wakatime-stats-action@v0.1.1
         with:
-          wakatime-api-key: ${{ secrets.WAKATIME_API_KEY }}
+          wakatime-token: ${{ secrets.WAKATIME_TOKEN }}
           output-path: assets/profile-cards/wakatime-light.svg
           layout: compact
           langs-count: 8
