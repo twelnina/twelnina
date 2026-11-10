@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="296.36999999999995"
+            width="299.922"
             height="8"
             fill="#A97BFF"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="296.36999999999995"
+            x="299.922"
             y="0"
-            width="27.601999999999997"
+            width="27.861"
             height="8"
             fill="#9c4221"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="323.9719999999999"
+            x="327.783"
             y="0"
-            width="25.048999999999996"
+            width="22.496"
             height="8"
             fill="#cb171e"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="349.0209999999999"
+            x="350.279"
             y="0"
-            width="11.950999999999999"
+            width="10.73"
             height="8"
             fill="#083fa1"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="360.9719999999999"
+            x="361.009"
             y="0"
-            width="6.216"
+            width="5.624"
             height="8"
             fill="#858585"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="367.18799999999993"
+            x="366.63300000000004"
             y="0"
-            width="2.072"
+            width="1.85"
             height="8"
             fill="#2A6277"
           />
@@ -188,14 +188,14 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin - 7 hrs 20 mins
+        Kotlin - 8 hrs 16 mins
       </text>
     </g>
   
     <g transform="translate(182.5, 25)">
       <circle cx="5" cy="6" r="5" fill="#9c4221" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TOML - 41 mins
+        TOML - 46 mins
       </text>
     </g>
   
